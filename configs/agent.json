@@ -1,12 +1,12 @@
 {
-  "type": "service_account",
-  "project_id": "cogent-point-301500",
-  "private_key_id": "b57dbf62de12360bd4a33f79961cfd01ef60f53e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7PXJ1prnhzFAo\naWbb7Z35r1gnR4tL0+nj/ydPxZxBuSrAA2Gvxa2t5bmnJLzIUMv7m5p50meS4OIb\ne+6HUn6J2959q86xpSdZj5ml+kFFicpmy9N90sYAx8D3KHOP+Bs+D/xDR5s8NQbZ\ntWb1QIVob/PXS6HC1WTQU4DQshYfZ9yEC13HTQitmDNABcVGdKrqh6tBbPzbBerh\nLgHMOI7TNQdRiF656E54gNpGXGMmpr18mbLMZD4qUnn7xdAk4OeYPKUsd20//jjl\nIMgOuuOB3eLWFIGeahJuCBvMvBX+5jqrdfffVbnhz2ztLhR8eqhMN2ruqNtbINJL\nMABICehDAgMBAAECggEAJ9F0cuKm6wbZEQ8BKcoJa1zHoWrMi66gMbVENemvRibL\nmZPehVPDkJSm+42LfAn6pyI7IqcFEa4zR2b+ndaERGr2kMElro+Ro7EvGqXylYgs\n+9liu4JES0wvlCANG1PG71bU7bXfpFkegNPb9lHnTQNp1qIl31okG012umr0226M\nridsQJOLDfV87zV4MsT88WBC7ZxwCFAL8g1mH5nug5nYO469GXyHg6ulFQtn/r4v\nBjTzYM6LnXc9uZeWjJ9MGt3cS7x0EpIDEKJ3i6EnG/3RSpZlNtn3dkxCULmU5SiP\nXewLCo8lUr8kYzdLEZiyjuxk+swqloUGeeWFok97CQKBgQDmw6tzg5wgsMvMLOEy\nb1FnSRekNeDHZOKpr6QdcWzSr9bmfWDnZSUbG0okeXQ+c6bXEP1/FtidVy5nJgPO\ncLzLlO1UoSpZJ688WckW15dDESm/ALiU7aJl9K1xQpsYmF6T1+9B6tJM2ZBDjO5j\n6B7gK8LYgpNj6mf7L2kouJPHfwKBgQDPt0x+BQWcCx2l3QpkJMJSOg6BFj/ueOju\nKqmcZ9+D+ewLmxo/SPoRI+ISwAWIMqzE5BIGO8hrduXIbYL2u+CAHhdvX6mVyyjq\nYm0pXHNseTWmcYhhMlQq6sP/XXDFSjdDE8C8tCD5PW7X7I1h+7i9wW/Hk6WKfnyv\nFdNN7eQhPQKBgE39UUOP9kMiHS5a+Jz3/DYBAOlxgA9DbEtW3gtJWzL1VJa/RvHN\nQDYiCfO7zGqS4Y8L4fCCwyCh5z/bHCw388aGBZO1iD9rZxDpc0myASAce9RepQNI\nMLtubvO5Q/uS+1vR/b10ZDCu0s/RoHvJZi3y/D36G2AIR64fvtWRU/h3AoGBAJ4J\nwWo0WfNCxdj3l7tf+HVldLmkexnu5pKm5Qt6QKaCVaTy6oJx/MljutM3RD4/CBJ5\n0HjrrW6ONQBMyhL+GS6BNqVnbHjq7QN/xbxteehzRG2R/gitqTpKCrvVlUKWV/ty\nIPeyOVBI/HfOpDeDtSiy72AypwX7fNQdz/p/4E2lAoGAFLKlGV+fd1IEe1tVqKj9\nCNgldhZxoQVuZmeBlGNy2PM8neCp/HKRP7uG6gtd4FVgPSsVIghsb6tEb6Pam/Gn\nd5wxRICxc0MfAEJeFHuM8A0W4CzcdOuFnwfjrJIuIqf9wGRd8hhjlHfQ6ke7UJNL\nlokfE/eSjkoE2H/MGLepYmw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "chat-diobot@cogent-point-301500.iam.gserviceaccount.com",
-  "client_id": "105884233485815111034",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chat-diobot%40cogent-point-301500.iam.gserviceaccount.com"
+  "type": "yor account",
+  "project_id": "your porject -id",
+  "private_key_id": "your private key_id",
+  "private_key": "you private key",
+  "client_email": "your email client",
+  "client_id": "client Id",
+  "auth_uri": "your auth_uri",
+  "token_uri": "token_uri",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
